@@ -41,6 +41,22 @@ const About = () => {
 
                 </li>
 
+                <li className="my-3">
+
+                    <h3>Address:</h3> 
+                    <p className="me-5 data">- Ghaziabad, Uttar Pradesh, India. </p>
+                    <br />
+                    
+                </li>
+
+                <li className="my-3">
+
+                    <h3>Email:</h3> 
+                    <p className="me-5 data">- godiyalshashank@gmail.com </p>
+                    <br />
+                    
+                </li>
+
             </ul>
 
         </React.Fragment>
