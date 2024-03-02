@@ -9,7 +9,7 @@ const About = () => {
             <h1 className="mt-3 mb-1"> ABOUT </h1>
             <hr />
 
-            <ul className="list">
+            <ul className="list mt-5">
 
                 <li className="my-3" >
 

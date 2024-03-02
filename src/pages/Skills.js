@@ -9,7 +9,7 @@ const Skills = () => {
             <h1 className="mt-3 mb-1"> SKILLS </h1>
             <hr />
 
-            <ul className="mt-4">
+            <ul className="mt-5">
 
                 <li className="my-3">
                     <p className="me-5 ms-2 data-1">React.JS</p>

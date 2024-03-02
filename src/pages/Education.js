@@ -11,11 +11,10 @@ const Education = () => {
             </h1>
             <hr />
 
-            <ul className="list">
+            <ul className="list mt-5">
 
                 <li className="my-3">
 
-                    <h3>Ggraduation:</h3>
                     <p className="me-5 ms-2 data-1">
                         - <strong>Bachelor of Computer Applications (BCA)</strong> from CCSU 2018-2021 with an aggregate of 59.88 percent or 6.2 cgpa.
                     </p>
@@ -25,7 +24,6 @@ const Education = () => {
 
                 <li  className="my-3">
 
-                    <h3>12th:</h3>
                     <p className="me-5 data-1">
                         - Passed 12th (Arts) from Sarvodaya Bal Vidhyalaya, Anand Vihar, Delhi-92 in 2018 with 66%.
                     </p>
@@ -35,7 +33,6 @@ const Education = () => {
 
                 <li className="my-3">
 
-                    <h3>10:</h3>
                     <p className="me-5 data-1">
                         - Passed 10th from Sarvodaya Bal Vidhyalaya, Anand Vihar, Delhi-92 in 2016 with 6.0 CGPA.
                     </p>
@@ -46,7 +43,6 @@ const Education = () => {
             </ul>
 
         </React.Fragment>
-
 
     )
 

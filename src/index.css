@@ -5,6 +5,7 @@ body {
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    background-color: cadetblue;
   }
   
   code {
@@ -58,3 +59,7 @@ body {
   h1 {
       text-align: center;
   }
+
+Link{
+    text-decoration: none;
+}
