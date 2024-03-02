@@ -10,7 +10,7 @@ const Projects = () => {
             <h1 className="my-3 mb-1"> PROJECTS </h1>
             <hr />
 
-            <ul className="mt-5">
+            <ul className="mt-4">
                 
                 <li className="my-3">
 

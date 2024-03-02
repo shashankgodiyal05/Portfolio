@@ -11,7 +11,7 @@ const Education = () => {
             </h1>
             <hr />
 
-            <ul className="list mt-5">
+            <ul className="list mt-4">
 
                 <li className="my-3">
 
