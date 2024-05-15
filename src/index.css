@@ -60,3 +60,7 @@ body {
 Link{
     text-decoration: none;
 }
+
+.data-1:hover span::after {
+    content: " This Same Website";
+}

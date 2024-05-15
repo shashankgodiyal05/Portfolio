@@ -11,11 +11,11 @@ const Projects = () => {
             <hr />
 
             <ul className="mt-4">
-                
+
                 <li className="my-3">
 
                     <p className="me-5 ms-2 data-1">
-                        Currency Converter in Java <Link to="https://github.com/shashankgodiyal05/java-minor_project/tree/main/Currency-Converter" >source-code</Link>
+                        <span>Portfolio Website</span > <Link to="https://github.com/shashankgodiyal05/Portfolio">source code</Link>
                     </p>
 
                 </li>
@@ -23,7 +23,23 @@ const Projects = () => {
                 <li className="my-3">
 
                     <p className="me-5 ms-2 data-1">
-                        Distance Unit Converter in Java <Link to="https://github.com/shashankgodiyal05/java-minor_project/tree/main/Distance-Unit-Converter" >source-code</Link>
+                        Notepad (Python) <Link to="https://github.com/shashankgodiyal05/java-major_project/tree/main/Student_management_system" >source-code</Link>
+                    </p>
+
+                </li>
+                
+                <li className="my-3">
+
+                    <p className="me-5 ms-2 data-1">
+                        Currency Converter (Java) <Link to="https://github.com/shashankgodiyal05/java-minor_project/tree/main/Currency-Converter" >source-code</Link>
+                    </p>
+
+                </li>
+
+                <li className="my-3">
+
+                    <p className="me-5 ms-2 data-1">
+                        Distance Unit Converter (Java) <Link to="https://github.com/shashankgodiyal05/java-minor_project/tree/main/Distance-Unit-Converter" >source-code</Link>
                     </p>
                     
                 </li>
@@ -31,15 +47,7 @@ const Projects = () => {
                 <li className="my-3">
 
                     <p className="me-5 ms-2 data-1">
-                        Student Management System in Java & MySql <Link to="https://github.com/shashankgodiyal05/java-major_project/tree/main/Student_management_system" >source-code</Link>
-                    </p>
-
-                </li>
-
-                <li className="my-3">
-
-                    <p className="me-5 ms-2 data-1">
-                        Notepad in Python <Link to="https://github.com/shashankgodiyal05/java-major_project/tree/main/Student_management_system" >source-code</Link>
+                        Student Management System (Java, MySQL) <Link to="https://github.com/shashankgodiyal05/java-major_project/tree/main/Student_management_system" >source-code</Link>
                     </p>
 
                 </li>
