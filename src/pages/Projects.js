@@ -3,6 +3,13 @@ import { Link } from "react-router-dom";
 
 const Projects = () => {
 
+    function changeText(element) {
+
+        var spanElement = element.querySelector('span');
+        spanElement.textContent = "This Same Website";
+
+    }
+
     return (
 
         <React.Fragment>
@@ -14,8 +21,8 @@ const Projects = () => {
 
                 <li className="my-3">
 
-                    <p className="me-5 ms-2 data-1">
-                        <span>Portfolio Website</span > <Link to="https://github.com/shashankgodiyal05/Portfolio">source code</Link>
+                    <p className="me-5 ms-2 data-1" onmouseover="changeText(this)">
+                        <span>Portfolio Website</span > (ReactJs, JavaScript, HTML, CSS, Bootstrap, FontAwesome) <Link to="https://github.com/shashankgodiyal05/Portfolio">source-code</Link>
                     </p>
 
                 </li>
