@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 
 const Projects = () => {
 
-    function changeText(element) {
+    function changeText(event) {
 
-        var spanElement = element.querySelector('span');
+        var spanElement = event.currentTarget.querySelector('span');
         spanElement.textContent = "This Same Website";
 
     }
@@ -19,9 +19,9 @@ const Projects = () => {
 
             <ul className="mt-4">
 
-                <li className="my-3">
+                <li className="my-3" onMouseOver={changeText}>
 
-                    <p className="me-5 ms-2 data-1" onmouseover="changeText(this)">
+                    <p className="me-5 ms-2 data-1">
                         <span>Portfolio Website</span > (ReactJs, JavaScript, HTML, CSS, Bootstrap, FontAwesome) <Link to="https://github.com/shashankgodiyal05/Portfolio">source-code</Link>
                     </p>
 
