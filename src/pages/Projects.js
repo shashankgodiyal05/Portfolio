@@ -30,7 +30,7 @@ const Projects = () => {
                 <li className="my-3">
 
                     <p className="me-5 ms-2 data-1">
-                        Notepad (Python) <Link to="https://github.com/shashankgodiyal05/java-major_project/tree/main/Student_management_system" >source-code</Link>
+                        Notepad (Python, Tkinter) <Link to="https://github.com/shashankgodiyal05/java-major_project/tree/main/Student_management_system" >source-code</Link>
                     </p>
 
                 </li>
