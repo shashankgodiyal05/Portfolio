@@ -15,7 +15,7 @@ const Experience = () => {
 
                     <h3>Fresher</h3>
                     <p className="ne-5 ms-2 data-1">
-                        - Python Full Stack Development Trainee at Ducat IT Training School, December 2022 - Present.
+                        - Python Full Stack Development Certification (Dec 2022 - Dec 2023) from Ducat IT Training School Mohan Nagar, Ghaziabad U.P.
                     </p>
 
                 </li>
