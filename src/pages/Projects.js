@@ -30,6 +30,14 @@ const Projects = () => {
                 <li className="my-3">
 
                     <p className="me-5 ms-2 data-1">
+                        NewHub (ReactJs, JavaScript, HTML, CSS, Bootstrap, NEWSAPI) <Link to="https://github.com/shashankgodiyal05/NewsHub">source-code</Link>
+                    </p>
+
+                </li>
+
+                <li className="my-3">
+
+                    <p className="me-5 ms-2 data-1">
                         Notepad (Python, Tkinter) <Link to="https://github.com/shashankgodiyal05/java-major_project/tree/main/Student_management_system" >source-code</Link>
                     </p>
 
